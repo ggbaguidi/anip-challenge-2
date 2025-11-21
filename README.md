@@ -77,9 +77,9 @@ MIT License - voir le fichier LICENSE pour plus de détails
 ## 📧 Contact
 
 Pour toute question ou collaboration:
-- **Email:** guy.gbaguidi@example.com
-- **LinkedIn:** [Votre profil]
-- **GitHub:** [@votreusername]
+- **Email:** guygbaguidi123root@gmail.com
+- **LinkedIn:** [linkedin.com/in/aggbaguidi]
+- **GitHub:** [@ggbaguidi]
 
 ---
 
